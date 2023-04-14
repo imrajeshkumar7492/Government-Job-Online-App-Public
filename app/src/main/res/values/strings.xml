@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Government Job Online</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="gk_current_affairs"><![CDATA[Gk & Current Affairs]]></string>
+
+    <string-array name="theme">
+
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+</resources>

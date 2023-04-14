@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/ic_refresh"
+        android:id="@+id/action_refresh"
+        android:title="refresh"
+        android:iconTint="@color/black"
+        app:showAsAction="always"/>
+    <item android:icon="@drawable/ic_notification"
+        android:visible="false"
+        android:id="@+id/action_notification"
+        android:title="notification"
+        android:iconTint="@color/black"
+        app:showAsAction="never"/>
+
+    <item android:icon="@drawable/ic_search"
+        android:id="@+id/action_search"
+        android:title="search"
+        android:visible="false"
+
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="never|always|collapseActionView"/>
+</menu>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_Home"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_Savedjobs"
+        android:title="Saved Jobs" />
+    <item
+        android:id="@+id/navigation_books_study_mat"
+        android:title="Books and Study Materials"/>
+    <item
+        android:id="@+id/navigation_gk"
+        android:title="Gk and Current Affairs"/>
+
+
+    <item
+        android:id="@+id/navigation_Notification"
+        android:title="Notification"
+        android:visible="false" />
+
+
+
+    <item
+        android:id="@+id/navigation_website"
+        android:title="Website" />
+
+    <item
+        android:id="@+id/navigation_updates"
+        android:title="Updates"
+        android:visible="false" />
+
+    <item
+        android:id="@+id/navigation_share"
+        android:title="Share This App" />
+    <item
+        android:id="@+id/navigation_Rating"
+        android:title="Rate This App" />
+    <item
+        android:id="@+id/navigation_moreApps"
+        android:title="More Apps"
+        android:visible="false"/>
+    <item
+        android:id="@+id/navigation_About"
+        android:title="About Us" />
+
+    <item android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/navigation_theme"
+                android:title="Theme" />
+
+            <item
+                android:id="@+id/navigation_privacy"
+                android:title="Privacy Policy" />
+            <item
+                android:id="@+id/navigation_conditions"
+            android:title="Terms And Conditions" />
+            <item
+                android:id="@+id/navigation_disclaimer"
+            android:title="Disclaimer" />
+            <item
+                android:id="@+id/navigation_Contact"
+                android:title="Contact Us" />
+        </menu>
+
+    </item>
+
+</menu>

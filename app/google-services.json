@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "80524129768",
+    "firebase_url": "https://sarkari-yojana-a7b23-default-rtdb.firebaseio.com",
+    "project_id": "sarkari-yojana-a7b23",
+    "storage_bucket": "sarkari-yojana-a7b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80524129768:android:52147db1ddf69db2b4e05d",
+        "android_client_info": {
+          "package_name": "com.governmentjobonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80524129768-hfeja65q7r5jvvjm83md5bn2e7cl7pt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.governmentjobonline",
+            "certificate_hash": "5c9f04c6bba032592d861b1597bdcca1223fa90a"
+          }
+        },
+        {
+          "client_id": "80524129768-eluspvjgghsjv601t3lt13ecg01gl3pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYAAVnmGaVIkja0jvFL6yboFLkq3bShhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80524129768-eluspvjgghsjv601t3lt13ecg01gl3pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80524129768:android:e99c0dce4dc9f0a7b4e05d",
+        "android_client_info": {
+          "package_name": "com.governmentjobonline.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80524129768-eluspvjgghsjv601t3lt13ecg01gl3pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYAAVnmGaVIkja0jvFL6yboFLkq3bShhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80524129768-eluspvjgghsjv601t3lt13ecg01gl3pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
